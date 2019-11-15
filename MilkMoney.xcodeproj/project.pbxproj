@@ -14,6 +14,13 @@
 		692E1B6C234A6F4A001ADA93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B6A234A6F4A001ADA93 /* Main.storyboard */; };
 		692E1B6E234A6F4D001ADA93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B6D234A6F4D001ADA93 /* Assets.xcassets */; };
 		692E1B71234A6F4D001ADA93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B6F234A6F4D001ADA93 /* LaunchScreen.storyboard */; };
+		692E1B79234A7187001ADA93 /* MilkMoneyLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B78234A7187001ADA93 /* MilkMoneyLogo.png */; };
+		692E1B7B234A72A6001ADA93 /* mml.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B7A234A72A6001ADA93 /* mml.jpg */; };
+		692E1B7D234A7413001ADA93 /* mm2.png in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B7C234A7413001ADA93 /* mm2.png */; };
+		692E1B7F234A74C7001ADA93 /* font.png in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B7E234A74C7001ADA93 /* font.png */; };
+		692E1B81234A7663001ADA93 /* pour.png in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B80234A7663001ADA93 /* pour.png */; };
+		692E1B83234A7765001ADA93 /* p2.png in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B82234A7765001ADA93 /* p2.png */; };
+		692E1B85234A78CA001ADA93 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 692E1B84234A78CA001ADA93 /* splash.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +33,13 @@
 		692E1B6D234A6F4D001ADA93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		692E1B70234A6F4D001ADA93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		692E1B72234A6F4D001ADA93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		692E1B78234A7187001ADA93 /* MilkMoneyLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MilkMoneyLogo.png; path = ../../../../Downloads/MilkMoneyLogo.png; sourceTree = "<group>"; };
+		692E1B7A234A72A6001ADA93 /* mml.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mml.jpg; path = ../../../../Downloads/mml.jpg; sourceTree = "<group>"; };
+		692E1B7C234A7413001ADA93 /* mm2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mm2.png; path = ../../../mm2.png; sourceTree = "<group>"; };
+		692E1B7E234A74C7001ADA93 /* font.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = font.png; path = ../../../font.png; sourceTree = "<group>"; };
+		692E1B80234A7663001ADA93 /* pour.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pour.png; path = ../../../pour.png; sourceTree = "<group>"; };
+		692E1B82234A7765001ADA93 /* p2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = p2.png; path = ../../../p2.png; sourceTree = "<group>"; };
+		692E1B84234A78CA001ADA93 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = splash.png; path = ../../../splash.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,13 @@
 				692E1B66234A6F4A001ADA93 /* DataViewController.swift */,
 				692E1B68234A6F4A001ADA93 /* ModelController.swift */,
 				692E1B6A234A6F4A001ADA93 /* Main.storyboard */,
+				692E1B84234A78CA001ADA93 /* splash.png */,
+				692E1B82234A7765001ADA93 /* p2.png */,
+				692E1B80234A7663001ADA93 /* pour.png */,
+				692E1B7E234A74C7001ADA93 /* font.png */,
+				692E1B7C234A7413001ADA93 /* mm2.png */,
+				692E1B7A234A72A6001ADA93 /* mml.jpg */,
+				692E1B78234A7187001ADA93 /* MilkMoneyLogo.png */,
 				692E1B6D234A6F4D001ADA93 /* Assets.xcassets */,
 				692E1B6F234A6F4D001ADA93 /* LaunchScreen.storyboard */,
 				692E1B72234A6F4D001ADA93 /* Info.plist */,
@@ -128,9 +149,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				692E1B7D234A7413001ADA93 /* mm2.png in Resources */,
+				692E1B81234A7663001ADA93 /* pour.png in Resources */,
 				692E1B71234A6F4D001ADA93 /* LaunchScreen.storyboard in Resources */,
+				692E1B83234A7765001ADA93 /* p2.png in Resources */,
+				692E1B85234A78CA001ADA93 /* splash.png in Resources */,
 				692E1B6E234A6F4D001ADA93 /* Assets.xcassets in Resources */,
+				692E1B79234A7187001ADA93 /* MilkMoneyLogo.png in Resources */,
 				692E1B6C234A6F4A001ADA93 /* Main.storyboard in Resources */,
+				692E1B7B234A72A6001ADA93 /* mml.jpg in Resources */,
+				692E1B7F234A74C7001ADA93 /* font.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
